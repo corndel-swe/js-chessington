@@ -57,9 +57,7 @@ way to make sure that our code works as expected.
 Another approach is to write the tests _before_ we write the code. This is
 called Test Driven Development (TDD).
 
-- [ ] Read the
-      [Test Driven Development](https://tech-docs.corndel.com/js/test-driven-development.html)
-      documentation to get an idea of how to use TDD.
+- [ ] Read the [Test Driven Development](https://tech-docs.corndel.com/js/test-driven-development.html) documentation to get an idea of how to use TDD.
 
 Let's write a test for a new static method on our `Maths` class. We'll call this
 method `Maths.round()`.
