@@ -4,6 +4,7 @@ import Board from '../../../src/models/board.js'
 import Player from '../../../src/models/player.js'
 import Square from '../../../src/models/square.js'
 import King from '../../../src/models/pieces/king.js'
+import Rook from '../../../src/models/pieces/rook.js'
 
 describe('Pawn', () => {
   let board
