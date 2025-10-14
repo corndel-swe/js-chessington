@@ -7,7 +7,7 @@ in the module work as expected.
 We'll use the `mocha` testing framework to write and run our tests.
 
 - [ ] Have a read of the
-      [Unit Testing with Mocha](https://tech-docs.corndel.com/js/testing-with-mocha.html)
+      [Unit Testing with Mocha](https://tech-docs.corndel.com/js/unit-testing.html)
       documentation to get an idea of how to use `mocha`.
 
 There's an empty file called `maths.test.js` in the `tests` directory. We'll
